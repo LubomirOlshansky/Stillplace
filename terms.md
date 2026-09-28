@@ -1,18 +1,19 @@
 # Terms of Use
 
-**Last updated:** [DATE]
+**Last updated:** 28 September 2026
 
 ## 1. Acceptance of These Terms
 
-These Terms of Use ("Terms") govern your use of **[APP_NAME]** ("the app"),
-provided by **[CONTROLLER_NAME]**, based in **[CITY], Poland** ("we," "our," or
+These Terms of Use ("Terms") govern your use of **Stillplace** ("the app"),
+provided by **Liubomyr Olshanskyi**, based in **Warsaw, Poland** ("we," "our," or
 "us"). By downloading, installing, or using the app, you agree to these Terms.
 If you do not agree, do not use the app.
 
 On Apple devices, Apple's standard **Licensed Application End User License
 Agreement (LAEULA)** also applies to your use of the app, in addition to these
 Terms. Where the two conflict, the LAEULA governs the license to use the app on
-Apple devices.
+Apple devices. On Android devices, the app is distributed through Google Play
+and your use is also subject to the **Google Play Terms of Service**.
 
 ## 2. Eligibility
 
@@ -48,7 +49,15 @@ additional features.
 - **Refunds.** Refunds are handled by Apple or Google under their respective
   policies. We generally cannot issue refunds directly.
 
-## 5. Acceptable Use
+## 5. Feature Availability
+
+Some features depend on the platform you use. In particular, the
+focus-protection feature relies on Apple's Screen Time / Family Controls
+framework and is available only on iPhone and iPad; it is not present in the
+Android version. We may add, change, or remove platform-specific features as
+described in Section 13.
+
+## 6. Acceptable Use
 
 You agree not to:
 
@@ -58,16 +67,16 @@ You agree not to:
 - Use the app in any unlawful way or to infringe others' rights;
 - Interfere with or disrupt the app or its underlying services.
 
-## 6. Intellectual Property
+## 7. Intellectual Property
 
 The app, including its design, audio content, visuals, text, and software, is
 owned by us or our licensors and is protected by intellectual-property laws.
 These Terms do not transfer any ownership rights to you. All rights not
 expressly granted are reserved.
 
-## 7. Wellness Disclaimer — Not Medical Advice
+## 8. Wellness Disclaimer — Not Medical Advice
 
-[APP_NAME] is a focus and relaxation aid intended for general wellbeing and
+Stillplace is a focus and relaxation aid intended for general wellbeing and
 personal use. **It is not a medical device and does not provide medical advice,
 diagnosis, or treatment.** It is not intended to diagnose, treat, cure, or
 prevent any sleep disorder, mental-health condition, or other illness. If you
@@ -75,14 +84,14 @@ have concerns about your sleep, focus, or health, consult a qualified healthcare
 professional. Do not use the app while driving or operating machinery, or in any
 situation where focusing on audio or your device could be unsafe.
 
-## 8. Third-Party Services
+## 9. Third-Party Services
 
 The app uses third-party services, including Apple and Google (for distribution
 and payments) and Amplitude (for anonymous usage analytics). Your use of those
 services is subject to their own terms and privacy policies. Our handling of
-data is described in our **[Privacy Policy]([POLICY_URL])**.
+data is described in our **[Privacy Policy](https://github.com/LubomirOlshansky/Stillplace/blob/main/privacy.md)**.
 
-## 9. Disclaimer of Warranties
+## 10. Disclaimer of Warranties
 
 The app is provided "as is" and "as available," without warranties of any kind,
 whether express or implied, including warranties of merchantability, fitness for
@@ -91,7 +100,7 @@ be uninterrupted, error-free, or available at all times. To the extent any
 warranty cannot be disclaimed under applicable law, that warranty is limited to
 the minimum period and extent required by law.
 
-## 10. Limitation of Liability
+## 11. Limitation of Liability
 
 To the maximum extent permitted by applicable law, we will not be liable for any
 indirect, incidental, special, consequential, or punitive damages, or for loss
@@ -100,21 +109,21 @@ Nothing in these Terms excludes or limits liability that cannot be excluded or
 limited under applicable law, including under mandatory consumer-protection laws
 in Poland and the EU.
 
-## 11. Termination
+## 12. Termination
 
 You may stop using the app at any time. We may suspend or end your access if you
 breach these Terms or where required by law. Sections that by their nature
 should survive termination (including intellectual property, disclaimers,
 limitation of liability, and governing law) will survive.
 
-## 12. Changes to the App and These Terms
+## 13. Changes to the App and These Terms
 
 We may modify, suspend, or discontinue features of the app at any time. We may
 also update these Terms; the updated version will be posted on this page with a
 revised "Last updated" date. Your continued use of the app after changes take
 effect means you accept the updated Terms.
 
-## 13. Governing Law
+## 14. Governing Law
 
 These Terms are governed by the laws of Poland, without regard to conflict-of-law
 rules. If you are a consumer, you also benefit from any mandatory protections of
@@ -122,7 +131,7 @@ the law of your country of residence, and nothing in these Terms affects those
 rights. Disputes are subject to the competent courts of Poland, subject to any
 mandatory consumer jurisdiction rules that apply to you.
 
-## 14. Apple-Specific Terms
+## 15. Apple-Specific Terms
 
 Where you use the app on an Apple device, you acknowledge that:
 
@@ -137,8 +146,15 @@ Where you use the app on an Apple device, you acknowledge that:
 - Apple and its subsidiaries are third-party beneficiaries of these Terms and
   may enforce them against you.
 
-## 15. Contact
+## 16. Google Play–Specific Terms
 
-**[CONTROLLER_NAME]**
-[CITY], Poland
-Email: **[CONTACT_EMAIL]**
+Where you obtain the app through Google Play, you acknowledge that these Terms
+are between you and us only, not with Google; that Google is not responsible for
+the app or its content; and that your use of Google Play is governed by the
+Google Play Terms of Service.
+
+## 17. Contact
+
+**Liubomyr Olshanskyi**
+Warsaw, Poland
+Email: **privacy@stillplace.app**
