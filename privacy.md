@@ -48,10 +48,14 @@ This includes:
   completing a session, enabling a sound, saving a mix, or changing a setting —
   and aggregate counts such as the number of sessions completed, the length of a
   session, and how many sounds were active.
+- **Mix names:** the names you give your saved mixes are included with the
+  related usage events (saving, loading, or deleting a mix, and starting a
+  session with a saved mix). Choose a name you are comfortable sharing, or leave
+  analytics off.
 
-Analytics never includes your name, email address, contacts, photos, precise
-location, or the content of anything you write. It is not linked to feedback you
-send.
+Apart from mix names, analytics never includes your name, email address,
+contacts, photos, precise location, or anything else you write. It is not linked
+to feedback you send.
 
 Usage analytics is on by default and can be switched off at any time in the
 app's Settings. Section 8 explains exactly what stops when you do.
